@@ -1,0 +1,9 @@
+name: binderexample
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - plotly
+  - jupyter
+  - matplotlib
